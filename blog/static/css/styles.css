@@ -1,0 +1,45 @@
+.techfont{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.bigbrand{
+    font-size: 1.5em;
+
+}
+
+.centerstage{
+    margin-left : auto;
+    margin-right : auto;
+
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.loader{
+    filter: hue-rotate(0deg);
+    color: linear-gradient(45deg,#0f8,#08f);
+    animation: hue 10000ms infinite linear;
+}
+
+.postdate{
+    text-align: center;
+}
+
+
+
+.postcontent{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+
+a{
+    color: #9F0D7F;
+    text-decoration: none;
+}
